@@ -1,0 +1,3 @@
+.venv\Scripts\activate #Para activar mi venv
+pip list #Para ver la lista de paquetes que estoy utilizando
+$env:FLASK_DEBUG = "1" para activar el debugger en FLASK_DEBUG
